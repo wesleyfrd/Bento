@@ -128,6 +128,7 @@ const CONFIG = {
 		},
 	],
 
+
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
 	// ┴─┘┴└─┘ ┴ └─┘
@@ -175,7 +176,7 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'Link',
+			icon: 'link',
 			id: '1',
 			links: [
 				{
@@ -187,8 +188,34 @@ const CONFIG = {
 					link: 'https://audiobookbay.li/',
 				},
 				{
+					name: 'Hashnode',
+					link: 'https://www.hashnode.com',
+				},
+				{
 					name: 'Libgen',
 					link: 'https://libgen.fun/',
+				},
+			],
+		},
+		{
+			icon: 'github',
+			id: '2',
+			links: [
+				{
+					name: 'Front',
+					link: 'https://www.reddit.com/r/Frontend/',
+				},
+				{
+					name: 'Rust',
+					link: 'https://www.reddit.com/r/rust/',
+				},
+				{
+					name: 'Go',
+					link: 'https://www.reddit.com/r/golang/',
+				},
+				{
+					name: 'Repos',
+					link: 'https://github.com/migueravila',
 				},
 			],
 		},
