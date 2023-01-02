@@ -145,7 +145,7 @@ const CONFIG = {
 				{
 					name: 'Outlook',
 					link: 'outlook.office.com/',
-				}
+				},
 			],
 		},
 		{
@@ -189,7 +189,7 @@ const CONFIG = {
 				{
 					name: 'Libgen',
 					link: 'https://libgen.fun/',
-				}
+				},
 			],
 		},
 
