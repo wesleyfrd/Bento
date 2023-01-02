@@ -136,16 +136,16 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'briefcase',
+			icon: 'coffee',
 			id: '1',
 			links: [
 				{
 					name: 'Sharepoint',
-					link: 'https://projectplancombr.sharepoint.com/',
+					link: 'https://projectplancombr.sharepoint.com',
 				},
 				{
 					name: 'Outlook',
-					link: 'outlook.office.com/',
+					link: 'outlook.office.com',
 				},
 			],
 		},
@@ -155,19 +155,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Reddit',
-					link: 'https://www.reddit.com/',
+					link: 'https://www.reddit.com',
 				},
 				{
 					name: 'Youtube',
-					link: 'https://www.youtube.com/',
+					link: 'https://www.youtube.com',
 				},
 				{
 					name: 'Facebook',
-					link: 'https://www.facebook.com/',
+					link: 'https://www.facebook.com',
 				},
 				{
 					name: 'Instagram',
-					link: 'https://www.instagram.com/',
+					link: 'https://www.instagram.com',
 				},
 			],
 		},
@@ -176,16 +176,16 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'link',
+			icon: 'coffee',
 			id: '1',
 			links: [
 				{
 					name: 'AwesomePiracy',
-					link: 'https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md#courses-and-tutorials',
+					link: 'https://github.com/Igglybuff/awesome-piracy',
 				},
 				{
 					name: 'Audiobooks',
-					link: 'https://audiobookbay.li/',
+					link: 'https://audiobookbay.li',
 				},
 				{
 					name: 'Hashnode',
@@ -193,7 +193,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Libgen',
-					link: 'https://libgen.fun/',
+					link: 'https://libgen.fun',
 				},
 			],
 		},
