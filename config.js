@@ -194,4 +194,21 @@ const CONFIG = {
 		},
 
 	],
+// Second Links Container
+	secondListsContainer: [
+		{
+			icon: 'binary',
+			id: '1',
+			links: [
+
+			],
+		},
+		{
+			icon: 'github',
+			id: '2',
+			links: [
+
+			],
+		},
+	],
 };
